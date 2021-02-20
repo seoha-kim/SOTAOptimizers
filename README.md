@@ -1,2 +1,2 @@
 # Optimizers
-Various Optimizers for Pytorch (End)
+Various SOTA Optimizers for Pytorch (End)
